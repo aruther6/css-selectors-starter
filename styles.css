@@ -189,7 +189,7 @@ ul {
     select all of the links on the page using the tag name selector
 */
 /* ----- */
-{
+link {
     color: var(--blue);
 }
 
