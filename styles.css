@@ -174,7 +174,7 @@ h3 {
     select all of the unordered lists on the page using the tag name selector
 */
 /* ----- */
-{
+ul {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 12px;
