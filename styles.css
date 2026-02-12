@@ -200,7 +200,7 @@ link {
 */
 /* ----- */
 
-{
+a:hover {
     text-decoration: none;
 }
 
@@ -210,7 +210,7 @@ link {
     select the links on the page when they have keyboard focus using the tag name and pseudo-class  selector
 */
 /* ----- */
-{
+a:focus {
     text-decoration: none;
     outline: 4px solid var(--dv-med-blue);
     outline-offset: 2px;
