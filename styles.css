@@ -225,7 +225,7 @@ a:focus {
     select the main element by tag name
 */
 /* ----- */
-{
+main {
     width: 100%;
     max-width: 1200px;
     margin: 2rem auto;
@@ -243,7 +243,7 @@ a:focus {
     select the sections on the page that are direct descendants to the main by tag names and using the direct descendant selector
 */
 /* ----- */
-{
+main section {
     display: block;
     width: calc(100% - 2rem);
     max-width: calc(500px - 2rem);
