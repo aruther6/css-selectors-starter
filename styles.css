@@ -124,7 +124,7 @@ header {
     select the h1 tag by tag name
 */
 /* ----- */
-{
+h1 {
     font-size: 2em;
     margin: 0;
     text-align: center;
