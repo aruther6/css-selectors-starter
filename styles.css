@@ -279,7 +279,7 @@ p {
     select the images and SVGs by tag names
 */
 /* ----- */
-img, svg{
+img, svg {
     display: block;
     width: 100%;
     height: auto;
@@ -294,7 +294,7 @@ TO DO:
 select all of the spans by tag name
 */
 /* ----- */
-{
+span {
     display: block;
 }
 
